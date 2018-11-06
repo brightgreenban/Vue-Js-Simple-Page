@@ -2,11 +2,9 @@
 ![Preview](static/preview/mockup_1.png)
 ![Preview](static/preview/mockup_2.png)
 
-## bootstrap-vue
+## Simple page using vue.js, bootstrap and jquery
 
-> A Vue.js project
-
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
