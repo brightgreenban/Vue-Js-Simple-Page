@@ -1,5 +1,6 @@
 # Vue-Js-Simple-Page
-![Alt text](static/preview/mockup_1.png)
+![Preview](static/preview/mockup_1.png)
+![Preview](static/preview/mockup_2.png)
 
 ## bootstrap-vue
 
