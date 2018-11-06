@@ -2,7 +2,8 @@
 ![Preview](static/preview/mockup_1.png)
 ![Preview](static/preview/mockup_2.png)
 
-## Simple page using vue.js, bootstrap and jquery
+## Simple responsive page using vue.js, bootstrap and jquery
+[Link to website](http://mercedes-benz.zzz.com.ua/)
 
 ### Build Setup
 
