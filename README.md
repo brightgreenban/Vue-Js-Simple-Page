@@ -1,4 +1,7 @@
-# bootstrap-vue
+# Vue-Js-Simple-Page
+[Image alt](https://github.com/brightgreenban/Vue-Js-Simple-Page/static/preview/mockup_1.png)
+
+## bootstrap-vue
 
 > A Vue.js project
 
